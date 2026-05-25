@@ -40,4 +40,4 @@ TEST-CASE_SOFI.xlsx — тест-кейсы на регистрацию чере
 📬 Контакты:
 Кирилл Волокитин
 Telegram: @lxrdyon
-Email: lxrdyonwork@email.com
+Email: lxrdyonwork@gmail.com
